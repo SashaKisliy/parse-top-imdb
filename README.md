@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Once everything is set up, you can run the script using the following command:
 ```shell
-python parse.py
+python parse_imdb.py
 ```
 
 ## Notes
